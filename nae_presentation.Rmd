@@ -527,5 +527,5 @@ background-image: url(images/flashlight.jpeg)
 background-size: contain
 ## Thanks
 ## Code and Slides available at
-## [bradweiner.info/talk](https://bradweiner.info/talk/)
+## [bradweiner.info/talk](https://bradweiner.info/files/nae_presentation.pdf)
 
