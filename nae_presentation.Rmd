@@ -1,6 +1,6 @@
 ---
 title: "Data Science as a Flashlight"
-subtitle: "How Predictive Models Can Guide the Way"
+subtitle: "How Predictive Models Can Guide the Way to Student Success"
 author: "Brad Weiner, PhD"
 institute: "University of Colorado Boulder"
 date: "2021-05-26"
