@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:NAE Website_Milieu
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN: DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:Eastern Standard Time
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END: DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:Eastern Standard Time
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+X-ALT-DESC;FMTTYPE=text/html:<p>The National Academy of Engineering (NAE), with support from the National Science Foundation (EEC- 1840746), invites registrations for a workshop on Sharing Exemplary Admissions Practices that Promote Diversity in Engineering that will be held virtually Monday May 24 - Wednesday May 26, 2021.<br />
+<br />
+This workshop is designed to build a cohort of faculty, administrators, and scholars representing institutions across the country who can support one another as they work toward improving the diversity of engineering programs at their own institutions. Workshop activities will encourage cross-institutional mentoring, networking, and collaboration among individuals.<br />
+<br />
+The workshop will be highly interactive and will include presentations about best practices and policies, discussions of current and future directions for research on both the predictive value of different admissions criteria and metrics for judging success, and informal and formal networking opportunities. Before the workshop, NAE staff will provide an overview of the relevant scholarly literature on the predictive value of various admissions criteria. </p>
+
+<p>Please direct all questions to Dr. Beth Cady at <a href="mailto:ECady@nae.edu">ECady@nae.edu</a>. </p>
+
+<p><strong><a href="https://www.nae.edu/?id=250962" target="_blank">WORKSHOP AGENDA</a><br />
+<br />
+<a href="https://www.nae.edu/?id=250675">REGISTER HERE</a></strong></p>
+
+DESCRIPTION: The National Academy of Engineering (NAE), with support from the National Science Foundation (EEC- 1840746), invites registrations for a workshop on Sharing Exemplary Admissions Practices that Promote Diversity in Engineering that will be held virtually Monday May 24 - Wednesday May 26, 2021. 
+ 
+This workshop is designed to build a cohort of faculty, administrators, and scholars representing institutions across the country who can support one another as they work toward improving the diversity of engineering programs at their own institutions. Workshop activities will encourage cross-institutional mentoring, networking, and collaboration among individuals. 
+ 
+The workshop will be highly interactive and will include presentations about best practices and policies, discussions of current and future directions for research on both the predictive value of different admissions criteria and metrics for judging success, and informal and formal networking opportunities. Before the workshop, NAE staff will provide an overview of the relevant scholarly literature on the predictive value of various admissions criteria.  
+
+ Please direct all questions to Dr. Beth Cady at  ECady@nae.edu .  
+
+   WORKSHOP AGENDA  
+ 
+ REGISTER HERE   
+
+SUMMARY:Workshop on Sharing Exemplary Admissions Practices that Promote Diversity in Engineering 
+DTSTART;TZID=Eastern Standard Time:20210524T000000
+DTEND;TZID=Eastern Standard Time:20210526T235900
+LOCATION:,   
+ORGANIZER;CN=NAE Website:MAILTO:support@diamax.com
+END:VEVENT
+END:VCALENDAR
